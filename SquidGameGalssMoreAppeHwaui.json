@@ -1,22 +1,3 @@
 [
-   {
-       "Name":"Sqwuid Game",
-       "Description":"Discription",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/1.jpg",
-       "GameUrl":"https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/1.jpg"
-   },
-
-   {
-       "Name":"Sqwuid Game 2",
-       "Description":"Sqwuid Game 2",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/2.jpg",
-       "GameUrl":"https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/2.jpg"
-   },
-
-   {
-       "Name":"Sqwuid Game 3",
-       "Description":"Sqwuid Game 3",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/3.jpg",
-       "GameUrl":"https://raw.githubusercontent.com/FBGDFB/Tp38/master/Swap/3.jpg"
-   }
+  
 ]
