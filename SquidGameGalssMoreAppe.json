@@ -1,22 +1,3 @@
 [
-   {
-       "Name":"Squid Game Rublox",
-       "Description":"Can you survive from games? /n Red Light Green Light!",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Sqyuid-Game/main/More%20APPE/SquidGame1.jpg",
-       "GameUrl":"market://details?id=com.YaznGame.SquidGameRublox3D2021"
-   },
-
-   {
-       "Name":"Squid Game 456",
-       "Description":"There is only one rule,/n don’t get eliminated /n Don't move in front of the doll",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Sqyuid-Game/main/More%20APPE/SquidGame2.jpg",
-       "GameUrl":"market://details?id=com.YaznGame.dollwatchingSquidGameheros3D"
-   },
-
-   {
-       "Name":"Stickman",
-       "Description":"The best Red and Blue stickman and Spider",
-       "IconUrl":"https://raw.githubusercontent.com/FBGDFB/Sqyuid-Game/main/More%20APPE/Stickman.jpg",
-       "GameUrl":"market://details?id=com.stickmanRedAndBlueAdventure.SpiderRedAndMsrBlueParkourGame"
-   }
+   
 ]
